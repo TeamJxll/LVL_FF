@@ -9,14 +9,10 @@
 ---
 
 ## 🤝 Aliados
-Aquí puedes agregar a tus aliados con botones interactivos:
-
 <p align="center">
   <a href="https://t.me/stevenappsshops" target="_blank">
     <img src="https://img.shields.io/badge/Aliado%201-%2300C853?style=for-the-badge&logo=Handshake&logoColor=white" />
   </a>
-  
-*(Agrega más aliados repitiendo el formato con sus enlaces y nombres)*
 
 ---
 
